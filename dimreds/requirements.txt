@@ -1,0 +1,6 @@
+numpy
+matplotlib
+scikit-learn
+trimap
+opencv-python
+
