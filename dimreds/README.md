@@ -4,6 +4,7 @@
 3. play with increasing and decreasing dimensionality of the image array
 
 [Link to preview in nbviewer](https://nbviewer.jupyter.org/github/iggisv9t/generativeart-stuff/blob/main/dimreds/datafest.ipynb)  
+[Link to colab](https://colab.research.google.com/drive/1cUCMYGjvjoPJ2MrKeCnDZIKh_MIdWhH7?usp=sharing)  
 
 Check out [this repo](https://github.com/iggisv9t/dimreducers-crusher) to learn more about dimension reduction tools.
 
